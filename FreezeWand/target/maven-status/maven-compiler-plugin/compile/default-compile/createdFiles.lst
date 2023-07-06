@@ -1,0 +1,6 @@
+com\rosed\freezewand\Listener\FreezeWandListener.class
+com\rosed\freezewand\Profile\PlayerProfile.class
+com\rosed\freezewand\Command\FreezeWandCommand.class
+com\rosed\freezewand\FreezeWand.class
+com\rosed\freezewand\Profile\PlayerProfileManager.class
+com\rosed\freezewand\Listener\PlayerJoinListener.class

@@ -1,0 +1,9 @@
+name: FreezeWand
+version: '1.0-SNAPSHOT'
+main: com.rosed.freezewand.FreezeWand
+api-version: '1.19'
+commands:
+  freezewand:
+permissions:
+  freezewand.freeze:
+    default: op
