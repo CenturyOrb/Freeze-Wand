@@ -111,3 +111,5 @@ buildNumber.properties
 
 # Common working directory
 run/
+FreezeWand/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+FreezeWand/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
