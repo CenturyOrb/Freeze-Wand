@@ -38,6 +38,8 @@ public class FreezeWandCommand implements CommandExecutor {
             // give the player freeze wand
             ItemStack freezeWandStack = new ItemStack(Material.STICK);
             ItemMeta freezeWandMeta = freezeWandStack.getItemMeta();
+            freezeWandMeta.setDisplayName(ChatColor.translateAlternateColorCodes('&', "&6Freeze Wand"));
+            freezeWandMeta.setLocalizedName("freezewand.freezewand");
             List<String> freezeWandLore = new ArrayList<>();
             freezeWandLore.add(ChatColor.translateAlternateColorCodes('&', "&5&oIce King's wand"));
             freezeWandMeta.setLore(freezeWandLore);

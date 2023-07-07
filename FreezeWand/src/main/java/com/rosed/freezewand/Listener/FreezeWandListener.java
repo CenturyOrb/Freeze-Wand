@@ -43,7 +43,7 @@ public class FreezeWandListener implements Listener {
 
         if (itemMeta == null )   { return; }    // checks if item is air
         if (itemMeta.getLore() == null)   { return; }   // checks if item is vanilla
-        if (!(itemMeta.getLore().contains("§5§oIce King's wand")))   { return; }   // checks if the item isn't the freeze wand
+        if (!(itemMeta.getLocalizedName().equals("freezewand.freezewand")))   { return; }   // checks if the item isn't the freeze wand
 
         // check if the player is frozen or not
         boolean frozen = playerProfileManager.getPlayerProfiles().get(rightClickedPlayerUUID).isFrozen();
