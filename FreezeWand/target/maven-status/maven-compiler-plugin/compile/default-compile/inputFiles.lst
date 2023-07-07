@@ -1,5 +1,7 @@
-C:\Users\ericn\IdeaProjects\FreezeWand\src\main\java\com\rosed\freezewand\PlayerProfileManager.java
-C:\Users\ericn\IdeaProjects\FreezeWand\src\main\java\com\rosed\freezewand\PlayerJoinListener.java
-C:\Users\ericn\IdeaProjects\FreezeWand\src\main\java\com\rosed\freezewand\FreezeWand.java
-C:\Users\ericn\IdeaProjects\FreezeWand\src\main\java\com\rosed\freezewand\FreezeWandListener.java
-C:\Users\ericn\IdeaProjects\FreezeWand\src\main\java\com\rosed\freezewand\PlayerProfile.java
+C:\Users\ericn\OneDrive\Documents\GitHub\Freeze-Wand\FreezeWand\src\main\java\com\rosed\freezewand\Listener\FreezeWandListener.java
+C:\Users\ericn\OneDrive\Documents\GitHub\Freeze-Wand\FreezeWand\src\main\java\com\rosed\freezewand\FreezeWand.java
+C:\Users\ericn\OneDrive\Documents\GitHub\Freeze-Wand\FreezeWand\src\main\java\com\rosed\freezewand\Profile\PlayerProfileManager.java
+C:\Users\ericn\OneDrive\Documents\GitHub\Freeze-Wand\FreezeWand\src\main\java\com\rosed\freezewand\Command\FreezeWandCommand.java
+C:\Users\ericn\OneDrive\Documents\GitHub\Freeze-Wand\FreezeWand\src\main\java\com\rosed\freezewand\Listener\PlayerJoinListener.java
+C:\Users\ericn\OneDrive\Documents\GitHub\Freeze-Wand\FreezeWand\src\main\java\com\rosed\freezewand\Profile\PlayerProfile.java
+C:\Users\ericn\OneDrive\Documents\GitHub\Freeze-Wand\FreezeWand\src\main\java\com\rosed\freezewand\Listener\PlayerQuitListener.java

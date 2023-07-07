@@ -3,6 +3,7 @@ package com.rosed.freezewand;
 import com.rosed.freezewand.Command.FreezeWandCommand;
 import com.rosed.freezewand.Listener.FreezeWandListener;
 import com.rosed.freezewand.Listener.PlayerJoinListener;
+import com.rosed.freezewand.Listener.PlayerQuitListener;
 import com.rosed.freezewand.Profile.PlayerProfile;
 import com.rosed.freezewand.Profile.PlayerProfileManager;
 import org.bukkit.Bukkit;
@@ -38,6 +39,7 @@ public final class FreezeWand extends JavaPlugin {
 
         // register events
         Bukkit.getPluginManager().registerEvents(new PlayerJoinListener(playerProfileManager), this);
+        Bukkit.getPluginManager().registerEvents(new PlayerQuitListener(playerProfileManager), this);
         Bukkit.getPluginManager().registerEvents(new FreezeWandListener(playerProfileManager), this);
 
         // register commands
